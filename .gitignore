@@ -9,3 +9,7 @@ imgui.ini
 *.qdstrm
 *.nsys-rep
 *.sqlite
+
+renders/
+
+taichi3dgs/
